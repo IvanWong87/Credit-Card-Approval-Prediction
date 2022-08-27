@@ -1,7 +1,7 @@
 # Credit-Card-Approval-Prediction
 Should the bank issue a credit card to the applicant?
 
-Try to predict whether the applicant is a good client or bad client by using two csv file.
+Build up a machine learning model to predict whether the applicant is a good client or bad client by using two csv file.
 
 First csv file is called application_record.csv which have 7759841 rows and 18 columns. It contains the personal information such as gender, age, family size, education level, annual income, etc.
 
